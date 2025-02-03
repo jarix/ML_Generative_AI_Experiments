@@ -5,4 +5,5 @@
 Install Hugging Face Transformers and PyTorch
 
 ``` pip install torch transformers ```
+```pip install ipywidgets```
 
